@@ -4,6 +4,7 @@
   "description": "This is a \"boiler plate\". Its a foundation to build apps upon.",
   "main": "index.js",
   "dependencies": {
+    "axios": "^0.19.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
